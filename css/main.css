@@ -1,5 +1,6 @@
 body {
 	background-color: #0.0.0;
+	background: url(http://grahameaitchison.com/wp-content/uploads/2013/05/Overhead-food-background-14085896.jpg);
 }
 h1 {
 	color: #9C250B;
@@ -11,14 +12,12 @@ h1 {
 }
 #slogan {
 color; #A8A8A8
-font-size; 15px
+font-size; 25px
 text-align: center;
+font-weight: ;
 font-style: italic;
 }
 h3 {
 text-align: center;
 color: blue;
-}
-img {
-	text-align: left;
 }
