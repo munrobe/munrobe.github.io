@@ -29,17 +29,17 @@ font-size: 50 px;
 }
 p {
 	text-align: left;
-	font-size: 100 px
+	font-size: 300 px
 }
 ul {
 	text-align: left;
 	font-weight: 500
 	text-transform: uppercase;
 }
-.why {
+.myp {
 	font-size: 200 px;
-	text-shadow:5px 5px 10px red;
+	text-shadow:5px 5px 10px black;
 }
-.header {
+.myH1 {
 	text-shadow: 5px 5px 10px black;
 }
