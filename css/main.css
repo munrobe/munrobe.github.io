@@ -13,6 +13,8 @@ h1 {
 	text-transform: uppercase;
 	font-weight: bold;
 	text-align: center;
+	text-shadow: 5px 5px 10px black;
+}
 }
 #slogan {
 color; #A8A8A8
@@ -36,8 +38,6 @@ ul {
 	text-transform: uppercase;
 }
 .why {
-	font-size: 100 px;
-}
-#heading {
-	text-shadow: 5px 5px 10px black;
+	font-size: 200 px;
+	text-shadow:5px 5px 10px red;
 }
