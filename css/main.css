@@ -11,14 +11,14 @@ h1 {
 	font-style: Arial, sans-serif;
 	font-size: 150 px;
 	text-transform: uppercase;
-	font-weight: 900;
+	font-weight: bold;
 	text-align: center;
 }
 #slogan {
 color; #A8A8A8
 font-size: 100 px;
 text-align: center;
-font-weight: 900;
+font-weight: bold;
 font-style: italic;
 }
 h3 {
@@ -32,4 +32,12 @@ ul {
 	text-align: left;
 	font-weight: 500
 	text-transform: uppercase;
+}
+.why {
+	font-size: 100 px;
+}
+.lets get started {
+	text-align: left;
+	font-weight: bold;
+	font-size: 50 px;
 }
