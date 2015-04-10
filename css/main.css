@@ -2,8 +2,7 @@ body {
 	background-color:#BFAFAC 
 	font-family: Helvetica;
 	color: #09F567;
-	background-color: cover;
-	
+
 }
 h1 {
 	color: #3EB76E;
@@ -52,4 +51,7 @@ a:hover {
 .contact {
 	color: #06A847;
 	text-align: left;
+}
+.img {
+	background-size: auto
 }
