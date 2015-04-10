@@ -6,7 +6,7 @@ body {
 	background-image: url(http://www.wallpapersgalaxy.com/wp-content/uploads/2013/03/29.jpg);
 	
 h1 {
-	color: #A81707;
+	color: black;
 	font-family: Arial, sans-serif;
 	font-size: x-large
 	text-transform: uppercase;
@@ -15,7 +15,7 @@ h1 {
 	
 }
 #slogan {
-color; #A8A8A8
+color:black;
 font-size: 100 px;
 text-align: center;
 font-weight: bold;
@@ -39,17 +39,17 @@ ul {
 }
 
 a:hover {
-	color: #B5A5BF;
+	color: red;
 }
 .emailme {
-	color: #06A847;
-	text-align: center;
+	color: #black;
+	text-align: left;
 }
 .nav {
-	color: #06A847;
+	color: #black;
 	text-align: left;
 }
 .contact {
-	color: #06A847;
+	color: black;
 	text-align: left;
 }
