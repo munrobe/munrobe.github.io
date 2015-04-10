@@ -4,7 +4,7 @@ body {
 	text-align: center;
 	font-family: Helvetica;
 	color: #BFA971;
-	
+
 }
 h1 {
 	color: #0.0.0;
@@ -36,6 +36,7 @@ ul {
 	font-weight: 500
 	text-transform: uppercase;
 	font-size: 50 px;
+}
 a:hover {
 	color: #12BF43;
 }
