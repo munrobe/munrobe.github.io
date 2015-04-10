@@ -1,15 +1,14 @@
 body {
 	background-color:#BFAFAC 
-	background-size: auto;
-	text-align: center;
 	font-family: Helvetica;
 	color: #06A847;
+	background-size: cover;
 
 }
 h1 {
 	color: #3EB76E;
-	font-style: Arial, sans-serif;
-	font-size: 200 px;
+	font-family: Arial, sans-serif;
+	font-size: x-large
 	text-transform: uppercase;
 	font-weight: bold;
 	text-align: center;
@@ -31,12 +30,12 @@ font-size: 50 px;
 
 p {
 	text-align: left;
-	font-size: x-large;
+	font-size: large;
 	font-weight: bold;
 }
 ul {
 	text-align: left;
-	font-size: 400 px;
+	font-size: medium;
 }
 
 a:hover {
