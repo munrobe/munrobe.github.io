@@ -39,9 +39,8 @@ ul {
 }
 a:hover {
 	color: #12BF43;
-	text-align: right;
 }
-img {
+a {
 	text-align: left;
 	font-size: 200 px;
 }
