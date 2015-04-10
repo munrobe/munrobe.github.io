@@ -1,5 +1,5 @@
 body {
-	background-color:#F53A1A 
+	background-color: #F53A1A;
 	font-family: Helvetica;
 	color: black;
 	background-size: cover;
@@ -16,7 +16,7 @@ h1 {
 	
 }
 #slogan {
-color:black;
+color: black;
 font-size: 100 px;
 text-align: center;
 font-weight: bold;
@@ -43,11 +43,11 @@ a:hover {
 	color: red;
 }
 .emailme {
-	color: #black;
+	color: black;
 	text-align: left;
 }
 .nav {
-	color: #black;
+	color: black;
 	text-align: left;
 }
 .contact {
