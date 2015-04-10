@@ -1,5 +1,5 @@
 body {
-	background-color:#BFAFAC 
+	background-color:#F53A1A 
 	font-family: Helvetica;
 	color: #09F567;
 	background-size: cover;
@@ -52,7 +52,4 @@ a:hover {
 .contact {
 	color: #06A847;
 	text-align: left;
-}
-.img {
-	background-size: auto
 }
