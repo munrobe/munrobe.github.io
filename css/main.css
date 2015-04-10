@@ -41,7 +41,7 @@ ul {
 a:hover {
 	color: #12BF43;
 }
-#emailme {
+.emailme {
 	color: #06A847;
 	text-align: center;
 }
@@ -51,4 +51,5 @@ a:hover {
 }
 .contact {
 	color: #06A847;
+	text-align: left;
 }
