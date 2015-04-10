@@ -43,9 +43,11 @@ a:hover {
 }
 #emailme {
 	color: #06A847;
+	text-align: center;
 }
 .nav {
 	color: #06A847;
+	text-align: left;
 }
 .contact {
 	color: #06A847;
