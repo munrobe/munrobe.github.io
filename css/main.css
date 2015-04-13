@@ -11,19 +11,19 @@ h1 {
 	font-size: 45px;
 	text-transform: uppercase;
 	font-weight: bold;
-	text-align: center;
+	text-align: left;
 	
 }
 #slogan {
 color: black;
 font-size: 25px;
-text-align: center;
+text-align: left;
 font-weight: bold;
 font-style: italic;
 }
 
 h3 {
-text-align: center;
+text-align: left;
 color: blue;
 font-size: 20px;
 }
@@ -52,5 +52,4 @@ a:hover {
 }
 .contact {
 	color: black;
-	text-align: center;
 }
