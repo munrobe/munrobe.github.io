@@ -58,3 +58,7 @@ a:hover {
 h1, h3, p {
 	font-family: 'Acme', sans-serif;
 }
+span {
+	color: red;
+	font-size: 32px;
+}
