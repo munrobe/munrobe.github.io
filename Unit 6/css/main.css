@@ -1,7 +1,7 @@
 body {
 	font-family: 'Special Elite', cursive;
-	font-size: 18px;
-	line-height: 10px;
+	font-size: 15px;
+	line-height: 18px;
 }
 
 #wrapper {
@@ -13,4 +13,25 @@ h5 {
 	color: blue;
 	font-size: 20px;
 	font-weight: normal;
+}
+
+a {
+	color: #dd0000;
+	text-decoration: none;
+}
+
+nav a {
+	background-color: black;
+	color: white;
+	width: 180px;
+	display: block;
+	font-size:; 24px;
+	text-align: center;
+	padding: 12px;
+	float: left;
+
+}
+
+nav a:hover {
+	background-color: #dd0000;
 }
