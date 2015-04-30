@@ -25,9 +25,9 @@ nav a {
 	color: white;
 	width: 180px;
 	display: block;
-	font-size:; 24px;
+	font-size: 24px;
 	text-align: center;
-	padding: 12px;
+	padding: 12px 0;
 	float: left;
 
 }
