@@ -38,3 +38,7 @@ nav a:hover {
 #paragraph {
 	clear: both;
 }
+
+h1, h5, p {
+	margin-bottom: 5em;
+}
