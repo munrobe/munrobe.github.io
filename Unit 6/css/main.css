@@ -1,3 +1,10 @@
 body {
 	font-family: 'Special Elite', cursive;
+	font-size: 18px;
+	line-height: 1.5;
+}
+
+#wrapper {
+	width: 900px;
+	margin: 0 auto;
 }
