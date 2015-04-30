@@ -38,4 +38,6 @@ nav a:hover {
 
 #paragraph {
 	clear: both;
+	width: 720px;
+	float: left;
 }
