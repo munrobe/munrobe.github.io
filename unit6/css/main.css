@@ -21,7 +21,7 @@ a {
 }
 
 nav a {
-	background-color: #79838D;
+	background-color: #A8A7A4;
 	color: white;
 	width: 265px;
 	display: block;
@@ -32,7 +32,7 @@ nav a {
 }
 
 nav a:hover {
-	background-color: #dd0000;
+	background-color: #478F3B;
 }
 
 #paragraph {
