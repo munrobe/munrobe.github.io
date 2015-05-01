@@ -39,6 +39,6 @@ nav a:hover {
 	clear: both;
 }
 
-.clearfix {
-	width: 0 auto;
+.clearfix:after {
+	clear: both;
 }
