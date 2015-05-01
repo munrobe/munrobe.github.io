@@ -23,7 +23,7 @@ a {
 nav a {
 	background-color: #A8A7A4;
 	color: white;
-	width: 265px;
+	width: 270px;
 	display: block;
 	font-size: 24px;
 	text-align: center;
@@ -33,10 +33,6 @@ nav a {
 
 nav a:hover {
 	background-color: #478F3B;
-}
-
-#paragraph {
-	clear: both;
 }
 
 .clearfix:after {
@@ -49,11 +45,4 @@ nav a:hover {
 
 img {
 	width: 1060px;
-}
-
-.title {
-	clear: both;
-	display: block;
-	float: left;
-	margin: auto;
 }
