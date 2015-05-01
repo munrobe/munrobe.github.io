@@ -21,7 +21,7 @@ a {
 }
 
 nav a {
-	background-color: black;
+	background-color: 0,153, 255,1;
 	color: white;
 	width: 265px;
 	display: block;
@@ -52,6 +52,16 @@ img {
 }
 
 #title {
-	clear: both;
-	display: block;
+	float: left;
+}
+
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+
+li{
+	display: inline;
+	padding:15px;
 }
