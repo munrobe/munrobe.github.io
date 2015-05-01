@@ -53,5 +53,5 @@ img {
 
 #title {
 	clear: both;
-	display: block;
+	float: left;
 }
