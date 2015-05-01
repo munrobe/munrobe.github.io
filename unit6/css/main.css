@@ -46,3 +46,10 @@ nav a:hover {
 img {
 	width: 1060px;
 }
+
+p {
+	padding: 10px 0;
+	float: none;
+	width: auto;
+	text-align: center;
+}
