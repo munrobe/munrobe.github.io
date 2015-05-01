@@ -58,6 +58,10 @@ img {
 	margin: auto;
 }
 
-header {
-	width: left;
+.about {
+	width: 150px;
+	margin: 0 20px
+	display: inline;
+	padding: 20px;
+	border: 1px solid black;
 }
