@@ -58,10 +58,24 @@ img {
 	margin: auto;
 }
 
-.about {
+.about image {
 	width: 150px;
 	margin: 0 20px
 	display: inline;
 	padding: 20px;
 	border: 1px solid black;
+}
+
+#about image {
+	width: 300px;
+	float: right;
+
+}
+
+#about {
+	float: left;
+}
+
+.about nikki {
+	float: right;
 }
