@@ -38,3 +38,7 @@ nav a:hover {
 #paragraph {
 	clear: both;
 }
+
+.clearfix {
+	width: 0 auto;
+}
