@@ -51,8 +51,13 @@ img {
 	width: 1060px;
 }
 
-#title {
+.title {
 	clear: both;
 	display: block;
+	float: left;
+	margin: auto;
 }
 
+header {
+	width: left;
+}
