@@ -21,7 +21,7 @@ a {
 }
 
 nav a {
-	background-color: black;
+	background-color: 150, 150, 150, 1;
 	color: white;
 	width: 265px;
 	display: block;
