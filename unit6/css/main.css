@@ -57,39 +57,3 @@ img {
 	float: left;
 	margin: auto;
 }
-
-.about image {
-	width: 150px;
-	margin: 0 20px
-	display: inline;
-	padding: 150px;
-	border: 1px solid black;
-}
-
-#about image {
-	width: 150px;
-	margin: 0 20px
-	display: inline;
-	padding: 150px;
-	border: 1px solid black;
-
-}
-
-#about {
-	float: auto;
-}
-
-.about nikki {
-	float: auto;
-}
-
-#text {
-	text-align: right;
-}
-
-*{
-	margin:0;
-	padding:0;
-	box-sizing:border-box;
-
-}
