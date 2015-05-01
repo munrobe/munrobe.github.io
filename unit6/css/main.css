@@ -46,3 +46,7 @@ nav a:hover {
 	height: 0;
 	clear: both;
 }
+
+img {
+	width: 1060px;
+}
