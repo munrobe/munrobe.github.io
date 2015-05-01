@@ -73,7 +73,7 @@ img {
 }
 
 #about {
-	float: left;
+	float: right;
 }
 
 .about nikki {
@@ -81,5 +81,5 @@ img {
 }
 
 #text {
-	text-align: left;
+	text-align: right;
 }
