@@ -60,7 +60,7 @@ p {
 	margin:0 auto;
 }
 
-#footnote{
+.left{
 	text-transform:none;
 	text-align: left;
 	color: black;
