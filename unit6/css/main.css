@@ -2,6 +2,9 @@ body {
 	font-family: 'Special Elite', cursive;
 	font-size: 15px;
 	line-height: 18px;
+	margin:0 auto;
+	text-transform: none;
+	text-align: center;
 }
 
 #wrapper {
@@ -9,10 +12,11 @@ body {
 	margin: 0 auto;
 }
 
-h5 {
+h1 {
 	color: blue;
 	font-size: 20px;
 	font-weight: normal;
+	padding: 9px;
 }
 
 a {
@@ -44,12 +48,19 @@ nav a:hover {
 }
 
 img {
-	width: 1060px;
+	width: 1080px;
+	height: 200px;
 }
 
 p {
 	padding: 10px 0;
 	float: none;
-	width: auto;
+	width: 1090px;
 	text-align: center;
+}
+
+#footnote{
+	text-transform:none;
+	text-align: left;
+	color: black;
 }
