@@ -65,3 +65,20 @@ footer {
 	padding: 10px;
 
 }
+
+#countries {
+  text-align: left;
+  margin: 5px;
+  padding: 10px;
+}
+
+.wrapper {
+  width: 2099px;
+  margin:0 auto;
+}
+
+.box {
+  width: 350px;
+  display: inline-block;
+  margin: 0 20px 
+}
