@@ -69,6 +69,9 @@ footer {
 	text-align: right;
 	padding: 10px;
 
+#readpage {
+	height: 1000px;
+
 }
 
 #countries {
@@ -76,7 +79,7 @@ footer {
   margin: 5px;
   padding: 10px;
   display: inline-block;
-  
+
 }
 .box {
   width: 350px;
