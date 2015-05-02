@@ -55,6 +55,7 @@ nav a:hover {
 img {
 	width: 1080px;
 	height: 200px;
+	padding: 10px;
 }
 
 p {
@@ -68,10 +69,6 @@ p {
 footer {
 	text-align: right;
 	padding: 10px;
-
-#readpage {
-	height: 1000px;
-
 }
 
 #countries {
