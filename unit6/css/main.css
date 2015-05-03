@@ -70,3 +70,8 @@ footer {
 	float: left;
 	padding: 25 0  0 25px;
 }
+
+.paragraph {
+	width: 50px;
+	text-align: left;
+}
