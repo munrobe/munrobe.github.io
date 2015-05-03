@@ -65,32 +65,8 @@ footer {
 	padding: 10px;
 }
 
-#header {
-	background: #e3da9d;
-	padding: 15px 0 1px 15px;
-
-}
 .column {
  	width: 400px;
 	float: left;
 	padding: 25 0  0 25px;
-}
-
-#column1 {
-  width: 30px;
-  height: 100px;
-}
- 
-#column2 {
-  width: 30px;
-  height: 100px;
-}
-#column3 {
-  width: 30px;
-  height: 100px;
-}
-
-#column4 {
-  width: 30px;
-  height: 100px;
 }
