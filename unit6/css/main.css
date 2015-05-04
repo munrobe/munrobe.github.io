@@ -84,18 +84,18 @@ footer {
 }
 
 .history {
- 	width: 280px;
+ 	width: 342px;
 	float: right;
-	padding: 30px;
+	padding: 15px;
 }
 
 .about {
- 	width: 280px;
+ 	width: 340px;
 	float: left;
-	padding: 30px;
+	padding: 31px;
 }
 
 .about-paragraph {
-	padding: 55px;
+	padding: 57px;
 	text-align: left;
 }
