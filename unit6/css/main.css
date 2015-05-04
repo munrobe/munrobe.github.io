@@ -76,3 +76,21 @@ footer {
 	float: left;
 	padding: 30px;
 }
+
+.contacts2 {
+ 	width: 280px;
+	float: right;
+	padding: 30px;
+}
+
+.history {
+ 	width: 280px;
+	float: right;
+	padding: 30px;
+}
+
+.about {
+ 	width: 280px;
+	float: left;
+	padding: 30px;
+}
