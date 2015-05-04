@@ -61,7 +61,7 @@ footer {
 }
 
 .countries {
- 	width: 400px;
+ 	width: 200px;
 	float: left;
 	padding: 25px;
 }
@@ -69,4 +69,10 @@ footer {
 .paragraph {
 	padding: 25px;
 	text-align: left;
+}
+
+.contacts {
+ 	width: 200px;
+	float: left;
+	padding: 25px;
 }
