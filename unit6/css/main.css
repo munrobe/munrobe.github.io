@@ -47,7 +47,7 @@ nav a:hover {
 	clear: both;
 }
 
-p {
+.home-paragraph {
 	padding: 10px 0;
 	float: none;
 	width: 1090px;
@@ -67,6 +67,6 @@ footer {
 }
 
 .paragraph {
-	width: 50px;
+	width: 25px;
 	text-align: left;
 }
