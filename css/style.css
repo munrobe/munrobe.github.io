@@ -1,64 +1,45 @@
-/* add google fonts */
-@import url(http://fonts.googleapis.com/css?family=Alef);
 body {
-	background-color: #B8C5FA;
-	/* Anonymous Actor */
-	font-family: 'Actor', sans-serif;
-	color: black;
-	text-align: auto;
-	background-size: cover;
-}
-
-h1 {
-	color: black;
-	font-size: 43px;
-	text-transform: uppercase;
-	text-align: left;
-	
-}
-#slogan {
-	color: black;
-	font-size: 25px;
-	text-align: left;
-	/* Galindo */
-	font-family: 'Acme', sans-serif;
-}
-
-h3 {
-	text-align: left;
-	color: blue;
-	font-size: 20px;
-}
-
-p {
-	text-align: left;
+	font-family: 'Special Elite', cursive;
 	font-size: 15px;
-	font-weight: bold;
+	line-height: 21px;
+	margin:0 auto;
+	text-transform: none;
+	text-align: center;
 }
-ul {
-	text-align: left;
-	font-size: medium;
+
+a {
+	color: #dd0000;
+	text-decoration: none;
+
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	content: " ";
+	clear: 0;
+	height: 0;
+	font-size: 0;
+}
+
+#wrapper {
+	width: 1098px;
 }
 
 a:hover {
-	color: red;
+	background-color: #72B57C;
 }
 
-.emailme {
-	color: black;
-	text-align: left;
+nav a {
+	background-color: #A8A7A4;
+	color: white;
+	width: 270px;
+	display: block;
+	font-size: 24px;
+	text-align: center;
+	padding: 12px 0;
+	float: left;
 }
-.nav {
-	color: black;
-	text-align: left;
-}
-.contact {
-	color: black;
-}
-h1, h3, p {
-	font-family: 'Acme', sans-serif;
-}
-span {
-	color: red;
-	font-size: 32px;
+
+footer {
+	text-align: right;
+	padding: 10px;
 }
