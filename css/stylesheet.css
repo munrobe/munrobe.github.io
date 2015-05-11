@@ -1,0 +1,160 @@
+* {
+	margin:0;
+	padding:0;
+}
+body  {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	background:#FFFFFF;
+	color:#515151;
+}
+img {
+	border:0;
+}
+h1 {
+	color:#80b531;
+	font-size:24px;
+	font-family:tahoma, arial;
+	font-weight:bold;
+	padding:0 0 25px 0;
+}
+h2 {
+	color:#80b531;
+	font-size:24px;
+	font-family:tahoma, arial;
+	padding:0 0 25px 0;
+}
+h3 {
+	color:#80b531;
+	font-size:24px;
+	font-family:tahoma, arial;
+	padding:0 0 5px 0;
+}
+.boxes {
+	padding:20px 0;
+}
+.box {
+	float:left;
+	width:273px;
+	padding:0 25px 20px 25px;
+}
+.boxButton {
+	float:right;
+}
+.box p {
+	padding:10px 0;
+}
+.buttonStyle {
+	border:0;
+	cursor:pointer;
+	font-size:14px;
+	color:#ffffff;
+	background:#a27349 url(images/buttonP.png) no-repeat right 8px;
+	padding:2px 25px 2px 7px;
+}
+.icons {
+	float:right;
+	background:#FFFFFF;
+	margin:4px 3px 0px 3px;
+	padding:40px 0 0 0;
+}
+.icons li {
+	list-style:none;
+	display:inline;
+}
+a {
+	color:#80b531;
+	text-decoration:underline;
+}
+a:hover {
+	color:#80b531;
+	text-decoration:none;
+}
+#container { 
+	width: 980px;  
+	margin: 0 auto;
+} 
+#header { 
+}
+.menu {
+	float:right;
+	padding:45px 0 0 0;
+}
+.menu li {
+	list-style:none;
+	display:inline;
+	padding:0 0 0 25px;
+}
+.menu a {
+	color:#2c2c2c;
+	font-size:12px;
+	text-decoration:none;
+}
+.menu a:hover {
+	color:#699429;
+	font-size:12px;
+	text-decoration:none;
+}
+.menu #active a {
+	color:#699429;
+}
+.logoContainer {
+	float:left;
+	padding:30px 0;
+}
+.logo {
+}
+.slogan {
+	color:#747474;
+	font-size:12px;
+}
+.headerPicContainer {
+	padding:25px 0;
+}
+.headerPic {
+	float:left;
+	padding:0 20px 0 0;
+}
+.headerPicBody {
+} 
+#sidebar1 {
+	float: left;
+	width: 422px;
+	padding:20px 0;
+}
+.picRight {
+	float:right;
+	padding:0 0 15px 20px;
+}
+#mainContent { 
+	margin: 0 0 0 470px; 
+	padding:20px 0;
+} 
+#footer {
+	background:#ffffff;
+	color:#515151;
+	padding:30px 0;
+	font-size:11px; 
+}
+#footer p {
+	text-align:center;
+} 
+#footer a {
+	color:#80b531;
+	text-decoration:underline;
+	font-size:11px;
+}
+#footer a:hover {
+	color:#80b531;
+	text-decoration:none;
+	font-size:11px;
+}
+.horSeparator {
+	border-bottom:2px solid #a27349;
+}
+.clearfloat { /* this class should be placed on a div or break element and should be the final element before the close of a container that should fully contain a float */
+	clear:both;
+    height:0;
+    font-size: 1px;
+    line-height: 0px;
+}
