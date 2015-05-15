@@ -52,16 +52,7 @@ h3 {
 	background:#566749 url(images/buttonP.png) no-repeat right 8px;
 	padding:2px 25px 2px 7px;
 }
-.icons {
-	float:right;
-	background:#FFFFFF;
-	margin:4px 3px 0px 3px;
-	padding:40px 0 0 0;
-}
-.icons li {
-	list-style:none;
-	display:inline;
-}
+
 a {
 	color:#80b531;
 	text-decoration:underline;
