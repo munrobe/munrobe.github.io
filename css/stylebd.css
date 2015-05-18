@@ -31,21 +31,18 @@ h3 {
 	padding:0 0 5px 0;
 }
 .boxes {
-	/* padding:20px 0; */
+	padding:20px 0;
 }
 .box {
 	float:left;
-	width: 29.333%;
-	padding: 2%;
+	width:273px;
+	padding:0 25px 20px 25px;
 }
 .boxButton {
 	float:right;
 }
 .box p {
 	padding:10px 0;
-}
-.box img {
-	width: 100%;
 }
 .buttonStyle {
 	border:0;
@@ -65,7 +62,7 @@ a:hover {
 	text-decoration:none;
 }
 #container { 
-	width: 76.5%;  
+	width: 76%;  
 	margin: 0 auto;
 } 
 #header { 
@@ -89,9 +86,7 @@ a:hover {
 	font-size:12px;
 	text-decoration:none;
 }
-.menu #active a {
-	color:#2c2c2c;
-}
+
 .logoContainer {
 	float:left;
 	padding:30px 0;
@@ -108,26 +103,18 @@ a:hover {
 .headerPic {
 	float:left;
 	padding:0 20px 0 0;
-	width: 45%;
 }
 .headerPicBody {
-    width: 50%;
-    float: right;
-}
- .searchiconpic {
-	float:left;
-	padding:30px 0;
 } 
+
 #sidebar1 {
 	float: left;
-	width: 45%;
+	width: 422px;
 	padding:20px 0;
 }
 #mainContent { 
-	/* margin: 0 0 0 470px; */ 
-	width: 50%;
+	margin: 0 0 0 470px; 
 	padding:20px 0;
-	float: right;
 } 
 #footer {
 	background:#ffffff;
@@ -147,48 +134,3 @@ a:hover {
     line-height: 0px;
 }
 
-@media only screen and (max-width: 1110px){
-	#container {
-		width: 90%;
-	}
-
-}
-
-@media only screen and (max-width: 950px){
-	.logoContainer {
-		float: none;
-	}
-	.menu {
-		float: none;
-	
-		margin: 0;
-		padding: 0;
-}
-}
-
-@media only screen and (max-width: 768px){
-	.headerPic {
-		width: 100%;
-		float: none;
-	}	
-
-	.headerPicBody {
-		width: auto;
-		float: none;
-	}
-
-	.box {
-		width: auto;
-		float: none;
-	}
-
-	#sidebar1 {
-		width: auto;
-		float: none;
-	}
-
-	#mainContent {
-		width: auto;
-		float: none;
-	}
-}
