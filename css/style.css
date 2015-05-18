@@ -172,6 +172,11 @@ a:hover {
 		float: none;
 	}	
 
+	.searchiconpic {
+		width: auto;
+		float: none;
+} 
+
 	.headerPicBody {
 		width: auto;
 		float: none;
