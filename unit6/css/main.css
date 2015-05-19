@@ -1,0 +1,101 @@
+body {
+	font-family: 'Special Elite', cursive;
+	font-size: 15px;
+	line-height: 21px;
+	margin:0 auto;
+	text-transform: none;
+	text-align: center;
+}
+
+#wrapper {
+	width: 1080px;
+	margin: 0 auto;
+}
+
+h1 {
+	color: #135407;
+	font-size: 20px;
+	font-weight: normal;
+	padding: 9px;
+}
+
+a {
+	color: #dd0000;
+	text-decoration: none;
+}
+
+nav a {
+	background-color: #A8A7A4;
+	color: white;
+	width: 270px;
+	display: block;
+	font-size: 24px;
+	text-align: center;
+	padding: 12px 0;
+	float: left;
+}
+
+nav a:hover {
+	background-color: #478F3B;
+}
+
+.clearfix:after {
+	content: ".";
+	visibility: hidden;
+	display: block;
+	height: 0;
+	clear: both;
+}
+
+.home-paragraph {
+	padding: 10px 0;
+	float: none;
+	width: 1090px;
+	text-align: center;
+	margin:0 auto;
+}
+
+footer {
+	text-align: right;
+	padding: 10px;
+}
+
+.countries {
+ 	width: 200px;
+	float: left;
+	padding: 25px;
+}
+
+.paragraph {
+	padding: 25px;
+	text-align: left;
+}
+
+.contacts {
+ 	width: 280px;
+	float: left;
+	padding: 30px;
+}
+
+.contacts2 {
+ 	width: 280px;
+	float: right;
+	padding: 30px;
+}
+
+.history {
+ 	width: 342px;
+	float: right;
+	padding: 15px;
+}
+
+.about {
+ 	width: 340px;
+	float: left;
+	padding: 31px;
+}
+
+.about-paragraph {
+	padding: 57px;
+	text-align: left;
+}

@@ -1,12 +1,14 @@
 <!DOCTYPE html>
 <html>
 <head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>What to cook..</title>
-<link rel="stylesheet" type="text/css" href="css/style.css">
-<meta name="viewport" content="width=device-width, initialscale=1">
+<link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 <body>
+<!-- begin #container -->
 <div id="container">
+	<!-- begin #header -->
     <div id="header">
     	<div class="logoContainer">
         	<div><img src="images/logo.png" alt="" /></div>
@@ -14,6 +16,7 @@
         </div>
         <div class="menu">
         	<ul>
+            	<li id="active"><a href="">HOME</a></li>
                 <li><a href="">My Menu</a></li>
                 <li><a href="">About</a></li>
                 <li><a href="">Contact</a></li>
@@ -23,8 +26,7 @@
         <div class="clearfloat"></div>
         <div class="horSeparator"></div>
         <div class="headerPicContainer">
-        	<div class="headerPic">
-            <img src="images/headerpic.png" alt="" /></div>
+        	<div class="headerPic"><img src="images/headerpic.png" alt="" /></div>
             <div class="headerPicBody">
             	<h2>Todays Meals</h2>
                 <p>
@@ -35,17 +37,15 @@
             </div>
             <div class="clearfloat"></div>
         </div>
-        <div class="clearfloat"></div>
-        <div class="searchbox">
-        <img src="images/searchicon.png" alt="" /></div>
-
+        <div class="horSeparator"></div>
     </div>
+    <!-- end #header -->
     <div class="boxes">
     	<div class="box">
         	<h3>Pasta with Meatballs</h3>
             <img src="images/pastawmeatballs.png" alt="" />
             <p>
-            	<b>Delicious and tasty</b> Not your typical Italians meatballs and pastas.  If you have no time to make fresh meatballs and pasta sauce use frozen kirkland meatballs and a can of crushed tomatoes. Dont forget to add italian seasonings, garlic and taste.
+            	<b>Delicious and tasty</b> Not your typical Italians meatballs and pastas.  If you have no time to make fresh meatballs and pasta sauce use frozen kirkland meatballs and a can of crushed tomatoes. Dont forget to add italian seasonings, garlic and tatse.
             </p>
             <div class="boxButton"><input type="button" value="recipes" class="buttonStyle" /></div>
         </div>
@@ -68,6 +68,7 @@
     </div>
     <div class="clearfloat"></div>
     <div class="horSeparator"></div>
+    <!-- begin #sidebar1 -->
     <div id="sidebar1">
     	<h1>Welcome</h1>
         <p>
@@ -75,20 +76,25 @@
             Please feel free to try out some of my easy meals and let me know what you think.
         </p>
     </div>
+    <!-- end #sidebar1 -->
+    <!-- begin #mainContent -->
     <div id="mainContent">
     	<h1>About Me</h1>
     	<p>
-        	 I am a mum with a full time job and two kids.  When it comes to cooking I have a nack for coming up with meals that doesn't required to go out and buy extra ingredients.  I use what is already in the fridge/kitchen to make simple delicious meals.
+        	 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
         </p>
     </div>
-<br class="clearfloat" />
+    <!-- end #mainContent -->
+    <!-- This clearing element should immediately follow the #mainContent div in order to force the #container div to contain all child floats --><br class="clearfloat" />
+    <!-- begin #footer -->
     <div class="horSeparator"></div>
     <div id="footer">
 		<p>
         	&copy; 2015 What to Cook.
         </p>
 	</div>
+    <!-- end #footer -->
 </div>
-</div>
+<!-- end #container -->
 </body>
 </html>
