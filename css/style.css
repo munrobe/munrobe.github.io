@@ -117,10 +117,11 @@ h3 {
     padding: 5%;
     float: none;
   }
-}
+
   h1 {
       font-size: 4.5em;
   }
+}
 
 @media only screen and (max-width: 320px){
   .box {
@@ -128,10 +129,27 @@ h3 {
     padding: 5%;
     float: none;
   }
-}
   h1 {
-      font-size: 4.5em;
+      font-size: 2.5em;
   }
+
+   #nav li {
+  float: left;
+  width: 25%;
+  text-align: center;
+  padding: 15px 0;
+  }
+  
+  #nav li a {
+  /* display: inline-block; */
+  /* padding: 23px 270px; */
+  text-decoration: none;
+  font-weight: bolder;
+  font-size: 10px;
+  color: #333;
+  }
+
+}
 
 @media only screen and (min-width:330px:) (max-width: 553px){
   .box {
