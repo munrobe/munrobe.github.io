@@ -191,6 +191,9 @@ img {
 
 @media only screen and (max-width: 800px){
 
+#content {
+    max-width: 100%;
+}
 .nav_bar_leftside {
 	  font-size: 15px;
 	  margin-left: 40px;
