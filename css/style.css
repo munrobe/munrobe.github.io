@@ -286,9 +286,16 @@ h2 {
 #content {
     max-width: 100%;
 }
+
 .nav_bar_leftside {
-	  font-size: 15px;
-	  margin-left: 40px;
+	  font-size: 16px;
+    margin-top: 60px;
+    margin-left: 35px;
+}
+
+.nav_bar_leftside a {
+  margin-left: 5px;
+  margin-right: 5px;
 }
 
 #nav_bar_rightside {
@@ -353,7 +360,7 @@ img {
 .nav_bar_leftside {
     font-size: 18px;
     margin-top: 65px;
-    margin-left: 35px;
+    margin-left: 40px;
 }
 
 .nav_bar_leftside a {
@@ -363,7 +370,7 @@ img {
 
 #nav_bar_rightside {
     font-size: 18px;
-    margin-right: 35px;
+    margin-right: 40px;
     margin-top: 65px;
 }
 
@@ -372,28 +379,22 @@ img {
     margin-right: 5px;
 }
 /* added padding and width to test 1024px */
+
 #content {
-    padding-left: 32px;
+   /* padding-left: 32px; */
     width: 101.333%;
     padding: 3%;
 }
 
 .contentgallery {
-    margin-left: 57px;
+    margin-left: 15px;
     margin-top: 70px;
-    padding: 25px;
+    padding: 31px;
     padding-top: 31px;
   }
 
   img {
     margin-left: 38px;
-  }
-
-.contentgallery {
-    margin-left: 20px;
-    margin-top: 70px;
-    padding: 48px;
-    padding-top: 31px;
   }
 
 .contentgallery h3 {
@@ -412,8 +413,11 @@ img {
     margin-right: 125px;
 }
 
+#footer {
+    width: 25%;
+}
 #footer p {
-  margin-top: 175px;
+  margin-top: 35;
 }
 
 }
