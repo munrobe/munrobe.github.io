@@ -378,34 +378,40 @@ img {
     margin-left: 10px;
     margin-right: 5px;
 }
+
+.recipesearchbutton { 
+    padding-left: 9px;
+  }
+
+.recipesearchbutton a {
+    padding: 10px 300px 10px 300px;
+    border-radius: 9px;
+}
+
 /* added padding and width to test 1024px */
 
 #content {
    /* padding-left: 32px; */
     width: 101.333%;
-    padding: 3%;
+    padding: 4%;
 }
 
 .contentgallery {
     margin-left: 15px;
-    margin-top: 70px;
+    margin-top: 16px;
     padding: 31px;
     padding-top: 31px;
   }
 
-  img {
-    margin-left: 38px;
-  }
+img {
+    margin-left: 45px;
+}
 
 .contentgallery h3 {
     padding-left: 55px;
     padding-top: 0px;
     margin-top: 19px;
   }
-
-img {
-    margin-left: 45px;
-}
 
 .buttonStyle {
     font-size: 18px;
@@ -418,6 +424,10 @@ img {
 }
 #footer p {
   margin-top: 35;
+}
+
+.clear {
+  clear: both;
 }
 
 }
