@@ -109,20 +109,23 @@ h2 {
   	font-weight: bolder;
 }
 
+/* added padding and width to test 1024px */
 #content {
-	  width: 100%;
+	  /*width: 100%; */
     padding-top: 23px;
   /* padding-right: 5px; */
-  	padding-left: 80px;
-  	padding-bottom: 5px;
+  /* padding-left: 80px; */
+  /*	padding-bottom: 5px; */
   	height: 950px;
+    width: 91.333%;
+    padding: 3%;
 }
 
 div {
 	  display: block;
 }
 
-.contentgallery {
+ .contentgallery {
    	width: 335px;
   	float: left;
   	margin-left: 16px;
@@ -147,8 +150,9 @@ div {
   	font-weight: normal;
   	font-size: 20px;
 }
-
+/* added width and width to test 1024px */
 img {
+    width: 75%;
 	  box-shadow: 4px 0px 57px 8px rgba(0,0,0,0.75);
   	border-radius: 25px;
   	margin-left: 65px;
@@ -182,10 +186,10 @@ img {
     font-family: FontAwesome;
     font-size: 16px;
     float: right;
-    width: 200px;
+    width: 85%;
     margin: 16px;
     /* margin-right: 671px; */
-    margin-top: 250px;
+    margin-top: 45%;
     /* padding-left: 62px; */
 
 }
@@ -263,6 +267,7 @@ h2 {
     margin-left: 60px;
     margin-top: 45px;
     padding: 25px;
+    float: none;
 }
 
 #footer {
@@ -308,6 +313,7 @@ h1 {
 	  margin-left: 178px;
 	  margin-top: 45px;
 	  padding: 45px; 
+    float: none;
 }
 
 img {
@@ -347,7 +353,7 @@ img {
 .nav_bar_leftside {
     font-size: 18px;
     margin-top: 65px;
-    margin-left: 20px;
+    margin-left: 35px;
 }
 
 .nav_bar_leftside a {
@@ -357,7 +363,7 @@ img {
 
 #nav_bar_rightside {
     font-size: 18px;
-    margin-right: 20px;
+    margin-right: 35px;
     margin-top: 65px;
 }
 
@@ -365,16 +371,18 @@ img {
     margin-left: 10px;
     margin-right: 5px;
 }
-
+/* added padding and width to test 1024px */
 #content {
-    padding-left: 40px;
+    padding-left: 32px;
+    width: 101.333%;
+    padding: 3%;
 }
 
 .contentgallery {
-    margin-left: 20px;
+    margin-left: 57px;
     margin-top: 70px;
-    padding: 20px;
-    padding-top: 30px;
+    padding: 25px;
+    padding-top: 31px;
   }
 
   img {
@@ -392,12 +400,10 @@ img {
     padding-left: 55px;
     padding-top: 0px;
     margin-top: 19px;
-
   }
 
 img {
     margin-left: 45px;
-
 }
 
 .buttonStyle {
