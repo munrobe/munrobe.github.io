@@ -56,7 +56,7 @@ body {
 
 header {
   	text-align: center;
-  	padding: 103px 0px;
+  	padding: 103px 0px 0px;
   	color: #2F2928;
   	font-family: 'Covered By Your Grace', cursive;
 }
@@ -66,20 +66,13 @@ h1 {
   	box-shadow: black;
 }
 
-h2 {
-  	font-size: 2.125em;
-  	color: #3F4B4C;
-}
-
 .recipesearchbutton {
   	text-align: center;
   	display: block;
-  	margin-bottom: 5%
-  	margin-top: 8%;
 }
 
 .recipesearchbutton a {
-	  padding: 12px 186px 12px 186px;
+	  padding: 10px 186px 10px 186px;
   	border-radius: 28px;
   	border: 3px solid #607360;
   	color: #FFFFFF;
@@ -91,6 +84,11 @@ h2 {
   	font-family: FontAwesome;
   }
 
+h2 {
+    font-size: 2.125em;
+    color: #3F4B4C;
+    padding: 35px;
+}
 
 .clearfix:after {
     content: ".";
@@ -111,34 +109,35 @@ h2 {
 
 /* added padding and width to test 1024px */
 #content {
-	  /*width: 100%; */
-    padding-top: 23px;
-  /* padding-right: 5px; */
-  /* padding-left: 80px; */
-  /*	padding-bottom: 5px; */
-  	height: 950px;
+    /* width: 100%; */
+    /* padding-top: 23px; */
+    /* padding-right: 9px; */
+    /* padding-left: 76px; */
+    /* padding-bottom: 5px; */
+    height: 950px;
     width: 91.333%;
-    padding: 3%;
+    padding: 1%;
+    margin-left: 125px;
 }
 
 div {
 	  display: block;
 }
 
- .contentgallery {
-   	width: 335px;
-  	float: left;
-  	margin-left: 16px;
-  	margin-top: 90px;
+.contentgallery {
+  width: 335px;
+  float: left;
+  margin-left: 15px;
+  margin-top: 0px;
   /* margin: 111px; */
-  	border: 5px;
-  	border-style: outset;
-  	border-color: #DDDDE1;
-  	height: 380px;
-  	padding: 55px;
-  	padding-left: 7px;
-  	padding-bottom: 7px;
-  	padding-top: 30px;
+  border: 5px;
+  border-style: outset;
+  border-color: #DDDDE1;
+  height: 380px;
+  padding: 40px;
+  padding-left: 0px;
+  padding-bottom: 10px;
+  padding-top: 30px;
 }
 
 .contentgallery h3 {
@@ -379,29 +378,40 @@ img {
     margin-right: 5px;
 }
 
-.recipesearchbutton { 
-    padding-left: 9px;
-  }
-
-.recipesearchbutton a {
-    padding: 10px 300px 10px 300px;
-    border-radius: 9px;
+.recipesearchbutton {
+ margin-left: 200px;
 }
 
-/* added padding and width to test 1024px */
+.recipesearchbutton a {
+  padding: 10px 140px 10px 140px;
+  border-radius: 44px;
+  margin-right: 213px;
+}
+
+h2 {
+    padding: 40px;
+    margin-top: 15px;
+}
 
 #content {
-   /* padding-left: 32px; */
-    width: 101.333%;
-    padding: 4%;
+    /* padding-left: 32px; */
+    padding: 0%;
+    padding-botom: 21px;
+    /* padding-left: 23px; */
+    /* padding-right: 3px; */
+    margin-left: 59px;
+    margin-right: 1;
+    /* margin-right: -2px; */
+    float: right;
+    /* margin-top: -91px; */
 }
 
 .contentgallery {
-    margin-left: 15px;
-    margin-top: 16px;
-    padding: 31px;
-    padding-top: 31px;
-  }
+  margin-left: 27px;
+  margin-top: 15px;
+  padding: 0px;
+  padding-top: 26px;
+}
 
 img {
     margin-left: 45px;
