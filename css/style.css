@@ -197,7 +197,9 @@ img {
 
 @media only screen and (max-width: 1024px){    
   #content {
-     margin-left: 7%;
+     margin-left: 12%;
+     float: none;
+     clear: both;
 }
 }
 
