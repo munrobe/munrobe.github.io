@@ -196,9 +196,40 @@ img {
 }
 
 @media only screen and (max-width: 1024px){    
+  #content {
+     margin-left: 5%;
+}
 
-#content {
-    margin-left: 5%;
+@media only screen and (max-width: 800px){  
+  
+ .nav_bar_leftside {
+  font-size: 0.99em;
+  font-weight: bold;
+  text-transform: uppercase;
+  /* padding: 0px 2px 0px 0px; */
+  margin-top: 7%;
+  float: left;
+  margin-left: 3%;
+}
+
+.nav_bar_leftside a {
+  color: #000000;
+  margin-left: 4%;
+  margin-right: 4%;
+}
+
+#nav_bar_rightside {
+  font-size: 0.99em;
+  margin-right: 3%;
+  float: right;
+  margin-top: 7%;
+}
+
+#nav_bar_rightside a {
+  color: #000000;
+  text-decoration: none;
+  margin-left: 4%;
+  margin-right: 4%;
 }
 
 }
