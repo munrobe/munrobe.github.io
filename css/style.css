@@ -110,15 +110,15 @@ h2 {
 
 /* added padding and width to test 1024px */
 #content {
-    /* width: 100%; */
-    /* padding-top: 23px; */
-    /* padding-right: 9px; */
-    /* padding-left: 76px; */
-    /* padding-bottom: 5px; */
-    height: 950px;
-    width: 91.333%;
-    margin-left: 85px;
-    clear: both;
+  /* width: 100%; */
+  /* padding-top: 23px; */
+  /* padding-right: 9px; */
+  /* padding-left: 76px; */
+  /* padding-bottom: 5px; */
+  height: 950px;
+  width: 99.333%;
+  margin-left: 1%;
+  clear: both;
 }
 
 div {
@@ -128,18 +128,18 @@ div {
 .contentgallery {
   width: 335px;
   float: left;
-  margin-left: 2.035em;
-  margin-top: 1.250em;
+  margin-left: 1%;
+  margin-top: 1%;
   /* margin: 111px; */
   border: 5px;
   border-style: outset;
   border-color: #DDDDE1;
   height: 380px;
-  padding: 2.759em;
-  padding-left: 0px;
-  padding-bottom: 10px;
-  padding-top: 30px;
-
+  padding: 1%;
+  /* padding-left: 3%; */
+  /* padding-right: 4%; */
+  padding-bottom: 1px;
+  padding-top: 1%;
 }
 
 .contentgallery h3 {
@@ -197,7 +197,8 @@ img {
 
 @media only screen and (max-width: 1024px){    
   #content {
-     margin-left: 5%;
+     margin-left: 7%;
+}
 }
 
 @media only screen and (max-width: 800px){  
