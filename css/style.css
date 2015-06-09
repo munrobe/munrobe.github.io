@@ -195,20 +195,11 @@ img {
 
 }
 
-@media only screen and (max-width: 320px){    
-  
-.nav_bar_leftside {
-    font-size: 0.438em;
-    padding: 0px 2px 0px 0px;
-    margin-top: 4.75em;
-    margin-left: 0.375em;
+@media only screen and (max-width: 1024px){    
+
+#content {
+    margin-left: 5%;
 }
-#nav_bar_rightside {
-    font-size: 0.438em;
-    margin-right: 5px;
-    /* margin-left: 0px; */
-    float: right;
-    margin-top: 4.75em;
-}
+
 }
 }
