@@ -286,3 +286,43 @@ h2 {
     margin-top: 27%;
   }
 }
+
+@media only screen and (max-width: 320px){  
+ 
+.nav_bar_leftside {
+  font-size: 8px;
+  margin-top: 7%;
+}
+
+.nav_bar_leftside a {
+  margin-left: 2px;
+  margin-right: 2px;
+}
+
+#nav_bar_rightside {
+  font-size: 8px;
+  margin-top: 7%;
+}
+
+#nav_bar_rightside a {
+  margin-left: 2px;
+  margin-right: 2px;
+}
+
+header {
+  padding: 60px 0px 0px;
+}
+
+h1 {
+  font-size: 2.5em;
+}
+
+.recipesearchbutton a {
+  padding: 5px 65px 5px 65px;
+  font-size: 11px;
+}
+
+h2 {
+  font-size: 15px;
+}
+
