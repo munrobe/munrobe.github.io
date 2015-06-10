@@ -301,27 +301,27 @@ h2 {
     margin-right: 5px;
 }
 
- #nav_bar_rightside {
-  font-size: 0.525em;
-  margin-top: 6%;
+  #nav_bar_rightside {
+    font-size: 0.525em;
+    margin-top: 6%;
 }
 
-#nav_bar_rightside a {
-  margin-left: 5px;
-  margin-right: 5px;
+  #nav_bar_rightside a {
+    margin-left: 5px;
+    margin-right: 5px;
 }
 
-header {
-  padding: 60px 0px 0px;
+  header {
+    padding: 60px 0px 0px;
 }
 
 h1 {
-  font-size: 49px;
+    font-size: 49px;
 }
 
 .recipesearchbutton a {
-  padding: 7px 55px 7px 55px;
-  font-size: 12px;
+    padding: 7px 55px 7px 55px;
+    font-size: 12px;
 }
 
 h2 {
@@ -333,7 +333,7 @@ h2 {
   /* width: 100%; */
   float: none;
   clear: both;
-  margin-left: 4px;
+  margin-left: 2px;
 }
 
 .contentgallery {
@@ -343,12 +343,12 @@ h2 {
   padding: 19px 3px 19px 3px;
   height: 15%;
   width: 29%;
-  margin-bottom: 1.5%;
+  margin-bottom: 0.5%;
 }
 
 img {
   width: 65%;
-  box-shadow: 4px 0px 57px 8px rgba(0,0,0,0.75);
+  box-shadow: 3px 0px 30px 3px rgba(0,0,0,0.75);
   border-radius: 25px;
   margin-left: 19%;
   height: 65%;
@@ -356,7 +356,7 @@ img {
 }
 
 .contentgallery h3 {
-  padding-left: 16%;
+  padding-left: 12%;
   float: left;
   padding-top: 4%;
   font-size: 0.725em;
@@ -429,7 +429,7 @@ h2 {
   /* width: 100%; */
   float: none; 
   clear: both; 
-  margin-left: 8px;
+  margin-left: 6px;
 }
 
 .contentgallery {
