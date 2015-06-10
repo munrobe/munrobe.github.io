@@ -214,8 +214,8 @@ img {
       margin-left: 4%;
 }
   .nav_bar_leftside a {
-      margin-left: 0.190%;
-      margin-right: 0.190%;
+      /*margin-left: 0.190%;*/
+      /*margin-right: 0.190%;*/
   }
   #nav_bar_rightside {
       font-size: 1.5em;
@@ -224,8 +224,8 @@ img {
       margin-top: 4%;
 }
   #nav_bar_rightside a {
-      margin-left: 0.190%;
-      margin-right: 0.190%;
+      /*margin-left: 0.190%;*/
+      /*margin-right: 0.190%;*/
 }
 }
 
