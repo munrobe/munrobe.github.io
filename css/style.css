@@ -199,6 +199,8 @@ img {
   /* padding-left: 62px; */
   /* clear: both; */
 }
+/*Media queries---------------------------------------------------------------
+*/
 
 @media only screen and (max-width: 1024px){    
   #content {
@@ -227,41 +229,60 @@ img {
       /*margin-left: 0.190%;*/
       /*margin-right: 0.190%;*/
 }
-}
 
+}
 }
 
 @media only screen and (max-width: 800px){  
   
- .nav_bar_leftside {
-  font-size: 0.99em;
-  font-weight: bold;
-  text-transform: uppercase;
-  /* padding: 0px 2px 0px 0px; */
-  margin-top: 7%;
-  float: left;
-  margin-left: 3%;
-}
+.content {
+    width: 3%;
+    float: none;
+    clear: both;
+  }
 
-.nav_bar_leftside a {
-  color: #000000;
-  margin-left: 4%;
-  margin-right: 4%;
+.nav_bar_leftside {
+    font-size: 15px;
+    margin-top: 5%;
 }
 
 #nav_bar_rightside {
-  font-size: 0.99em;
-  margin-right: 3%;
-  float: right;
-  margin-top: 7%;
+    font-size: 15px;
+    margin-top: 5%;
 }
 
-#nav_bar_rightside a {
-  color: #000000;
-  text-decoration: none;
-  margin-left: 4%;
-  margin-right: 4%;
+header {
+    padding: 12% 0px 0px;
+}
+h1 {
+    font-size: 85px;
 }
 
+.recipesearchbutton a {
+    padding: 7px 82px 7px 82px;
+    font-size: 23px;
+}
+
+h2 {
+    font-size: 26px;
+    padding: 22px;
+}
+
+.contentgallery {
+    padding-top: 4%;
+    margin-top: 2%;
+    padding-bottom: 0px;
+}
+
+#footer {
+    width: 37%;
+}
+
+#footer p {
+    font-size: 18px;
+    width: 85%;
+    margin: 12%;
+    margin-top: 27%;
+  }
 }
 }
