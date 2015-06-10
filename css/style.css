@@ -229,13 +229,11 @@ img {
       /*margin-left: 0.190%;*/
       /*margin-right: 0.190%;*/
 }
-
-}
 }
 
 @media only screen and (max-width: 800px){  
   
-.content {
+#content {
     width: 3%;
     float: none;
     clear: both;
@@ -254,6 +252,7 @@ img {
 header {
     padding: 12% 0px 0px;
 }
+
 h1 {
     font-size: 85px;
 }
