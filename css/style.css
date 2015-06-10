@@ -231,6 +231,80 @@ img {
 }
 }
 
+@media only screen and (max-width: 800px){ 
+  .nav_bar_leftside {
+    font-size: 20px;
+    padding: 0px 2px 0px 0px;
+    margin-top: 6%;
+    float: left;
+    margin-left: 4%;
+}
+
+.nav_bar_leftside a {
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+#nav_bar_rightside {
+  font-size: 20px;
+  margin-right: 4%;
+  float: right;
+  margin-top: 6%;
+}
+
+#nav_bar_rightside a {
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+header {
+  text-align: center;
+  padding: 12% 0px 0px;
+  color: #2F2928;
+  font-family: 'Covered By Your Grace', cursive;
+}
+
+#content {
+  margin-left: 4%;
+  float: none;
+  clear: both;
+}
+
+.contentgallery {
+  width: 335px;
+  float: left;
+  margin-left: 1%;
+  margin-top: 1%;
+  /* margin: 111px; */
+  border: 5px;
+  border-style: outset;
+  border-color: #DDDDE1;
+  height: 380px;
+  padding: 1%;
+  /* padding-left: 3%; */
+  /* padding-right: 4%; */
+  padding-bottom: 1px;
+  padding-top: 4%;
+}
+
+#footer {
+  width: 32%;
+  /* float: right; */
+}
+
+#footer p {
+  /* text-align: center; */
+  font-family: FontAwesome;
+  font-size: 1.25em;
+  float: right;
+  width: 94%;
+  margin: 11%;
+  margin-right: 6px;
+  margin-top: 28%;
+  /* padding-left: 62px; */
+  /* clear: both; */
+}
+
 @media only screen and (max-width: 764px){  
   
 #content {
