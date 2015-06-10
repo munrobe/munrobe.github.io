@@ -206,6 +206,29 @@ img {
      float: none;
      clear: both;
 }
+  .nav_bar_leftside {
+      font-size: 1.5em;
+      padding: 0px 2px 0px 0px;
+      margin-top: 4%;
+      float: left;
+      margin-left: 4%;
+}
+  .nav_bar_leftside a {
+      margin-left: 0.190%;
+      margin-right: 0.190%;
+  }
+  #nav_bar_rightside {
+      font-size: 1.5em;
+      margin-right: 4%;
+      float: right;
+      margin-top: 4%;
+}
+  #nav_bar_rightside a {
+      margin-left: 0.190%;
+      margin-right: 0.190%;
+}
+}
+
 }
 
 @media only screen and (max-width: 800px){  
