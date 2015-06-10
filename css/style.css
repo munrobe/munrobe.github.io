@@ -237,7 +237,7 @@ img {
   width: 100%;
   float: none;
   clear: both;
-  margin-left: 5px;
+  margin-left: 5px; 
 }
 
 .nav_bar_leftside {
@@ -318,11 +318,78 @@ h1 {
 }
 
 .recipesearchbutton a {
-  padding: 5px 65px 5px 65px;
-  font-size: 11px;
+  padding: 5px 40px 5px 40px;
+  font-size: 13px;
 }
 
 h2 {
-  font-size: 15px;
+  font-size: 1.0em;
 }
 
+#content {
+  /* width: 100%; */
+  float: none; 
+  clear: both; 
+  margin-left: 8px;
+}
+
+.contentgallery {
+  margin-top: 1px;
+  /* padding-bottom: 4px; */
+  padding: 33px -19px 15px 1px;
+  width: 40%;
+  margin-bottom: 2%;
+  /* float: right; */
+  height: 18%;
+}
+
+img {
+  width: 70%;
+  height: 55%;
+  margin-left: 20px;
+  padding-bottom: -3%;
+  /* padding-top: 0px; */
+}
+
+.contentgallery h3 {
+  padding-left: 7%;
+  float: left;
+  padding-top: 3%;
+  font-size: 0.850em;
+}
+
+.buttonStyle {
+  font-size: 11px;
+  float: right;
+  width: 55%;
+  padding-bottom: 5px;
+  padding-top: 5px;
+  padding-left: 2px;
+  border-radius: 18px;
+  /* margin-bottom: 17px; */
+  margin-top: 8%;
+}
+
+#footer {
+  width: 46%;
+  margin-left: 1;
+  float: none;
+  clear: both;
+  /* height: 13px; */
+}
+
+#footer p {
+  font-size: 0.75em;
+  /* width: 67%; */
+  /* margin: 21%; */
+  margin-top: 26%;
+  margin-right: 12%;
+  /* height: 10px; */
+}
+
+.clear {
+  clear: both;
+}
+
+}
+}
