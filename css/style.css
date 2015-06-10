@@ -231,13 +231,14 @@ img {
 }
 }
 
-@media only screen and (max-width: 800px){  
+@media only screen and (max-width: 764px){  
   
 #content {
-    width: 3%;
-    float: none;
-    clear: both;
-  }
+  width: 100%;
+  float: none;
+  clear: both;
+  margin-left: 5px;
+}
 
 .nav_bar_leftside {
     font-size: 15px;
@@ -250,7 +251,7 @@ img {
 }
 
 header {
-    padding: 12% 0px 0px;
+    padding: 80px 0px 0px;
 }
 
 h1 {
@@ -268,9 +269,10 @@ h2 {
 }
 
 .contentgallery {
-    padding-top: 4%;
-    margin-top: 2%;
-    padding-bottom: 0px;
+  padding-top: -1%;
+  margin-top: 20px;
+  /* padding-bottom: 4px; */
+  padding: 18px 6px 18px 6px;
 }
 
 #footer {
@@ -283,5 +285,4 @@ h2 {
     margin: 12%;
     margin-top: 27%;
   }
-}
 }
