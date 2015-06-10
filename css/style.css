@@ -207,7 +207,7 @@ img {
      clear: both;
 }
   .nav_bar_leftside {
-      font-size: 1.5em;
+      font-size: 20px;
       padding: 0px 2px 0px 0px;
       margin-top: 4%;
       float: left;
@@ -218,7 +218,7 @@ img {
       /*margin-right: 0.190%;*/
   }
   #nav_bar_rightside {
-      font-size: 1.5em;
+      font-size: 20px;
       margin-right: 4%;
       float: right;
       margin-top: 4%;
